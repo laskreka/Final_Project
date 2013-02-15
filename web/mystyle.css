@@ -1,0 +1,48 @@
+/* 
+    Document   : mystyle
+    Created on : 8 Ιαν 2013, 7:04:33 μμ
+    Author     : marouli
+    Description:
+        Purpose of the stylesheet follows.
+*/
+#container {
+    float:left;
+    padding-right: 100px;
+}
+root { 
+    display: block;
+}
+
+#comments {
+    
+    overflow:auto;
+    
+    height:300px;
+    width:300px;
+    
+}
+.username {
+    font-weight: 700;
+    margin-bottom: -15px;
+}
+
+.str {
+    padding-left: 15px;
+}
+
+.comment {
+    margin-bottom: -15px;
+    background-color: lavender;
+}
+
+body{
+    background-color: bisque;
+}
+neo5{
+    float: right;
+    color:red;
+}
+
+#h2{
+    
+}

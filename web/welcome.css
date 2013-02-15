@@ -1,0 +1,42 @@
+/* 
+    Document   : welcome
+    Created on : 15 Ιαν 2013, 8:30:49 μμ
+    Author     : marouli
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+#logout {
+    position:absolute;
+    left: 950px;
+    float: right;
+    font-size: 20px;
+}
+
+
+h1 {
+    color: cadetblue;
+}
+a {
+    color: slategrey;
+}
+b {
+    color: darkblue;
+}
+#main_content {
+    padding-top: 50px;
+    padding-left: 100px;
+    background-image: url("/final_project/tail-middle.jpg");
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+#main {
+    
+    
+}
+

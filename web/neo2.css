@@ -1,0 +1,60 @@
+/* 
+    Document   : neo2
+    Created on : 14 Ιαν 2013, 1:52:19 μμ
+    Author     : marouli
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+h1 {
+    padding-left: 400px;
+    padding-top: 3px;
+    color: midnightblue; 
+    font-family: sans-serif;
+    font-style: oblique;
+    text-shadow: inherit;
+}
+
+/*div.nio4 {
+   left:-100px;
+   #text-align: center;
+    color:red;
+   padding: 300px;
+   font-size: 20px;
+}*/
+
+h3 { 
+   text-align: center;
+    color:green;
+}
+
+div.nio1 a{ 
+   text-align: center;
+   color: slategray;
+   font-size: larger;
+    
+}
+
+div.nio1{ 
+   text-align: center;
+}
+
+body{
+    max-width:1000px;
+    /* background-image: url(images/at.jpg); */
+   background: url(images/pencil.jpg)
+}
+h1:first-letter {
+  font-size: 50pt;
+  text-transform: uppercase;
+  color: slategrey;
+}
+#footer{
+  text-align: left;
+  clear:both;
+  padding-top:360px;
+  font-family: sans-serif;
+  font-size: 20px;
+  color:darkblue;
+  font-style: inherit;
+}
